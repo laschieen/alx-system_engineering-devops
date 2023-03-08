@@ -27,3 +27,5 @@
 13-symbolic_link is a script to Create a symbolic link to /bin/ls, named __ls__.
 
 14-copy_html is a script that copies all the HTML files from the current working directory to the parent of the working directory.
+
+100-lets_move is a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
