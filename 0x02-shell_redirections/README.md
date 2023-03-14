@@ -33,3 +33,5 @@
 16-whatsnext is a script Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 
 17-hidethisword is a script that Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+
+18-letteronly is a script that Display all lines of the file /etc/ssh/sshd_config starting with a letter.
