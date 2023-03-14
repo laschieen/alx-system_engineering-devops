@@ -30,3 +30,5 @@ Value: rm *
 The number will be stored in the environment variable NUM.
 
 100-decimal_to_hexadecimal is a script that converts a number from base 10 to base 16.
+
+101-rot13 is a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
